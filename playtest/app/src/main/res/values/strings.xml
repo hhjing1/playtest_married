@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">婚姻建议程序app</string>
+    <string name="sex">性别</string>
+    <string name="age">年龄</string>
+    <string name="btn_ok">确定</string>
+    <string name="result">建议：</string>
+    <string name="not_hurry">青春还很富裕，先奋斗，结婚还不急！</string>
+    <string name="find_couple">时候到了，可以尝试找个对象了！</string>
+    <string name="get_married">你已经事业有成了，该结婚了！</string>
+    <string name="boy">男生</string>
+   <string-array name="sex_list">
+       <item>男生</item>
+       <item>女生</item>
+   </string-array>
+    <string name="sex_select">请选择性别：</string>
+    <string name="boy_age_1">小于25岁</string>
+    <string name="boy_age_2">25岁到30岁</string>
+    <string name="boy_age_3">大于30岁</string>
+    <string name="gril_age_1">小于25岁</string>
+    <string name="gril_age_2">25岁到30岁</string>
+    <string name="gril_age_3">大于30岁</string>
+</resources>
